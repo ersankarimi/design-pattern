@@ -11,6 +11,3 @@
   - Rahmat Ramadhani_11201079
   - Ersan Karimi_11201027
 
-# Aturan
-- Kalau mau ngoding bikin branch sendiri terlebih dahulu
-- Branch master untuk hasil finalnya
